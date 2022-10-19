@@ -14,7 +14,7 @@ Frontend is written in Html,css,js
 
 
 ```bash
-   gitclone https://github.com/mnku2407/Xenon-Stack.git
+   https://github.com/divyanshish/Xenon-Stack.git
 ```
 After clone
 
