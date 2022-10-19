@@ -44,23 +44,27 @@ After that you have to run another command for starting localhost server
 ## screenshots are attached :- 
 
 SignIN page:- 
-![image](https://user-images.githubusercontent.com/93602234/196776242-2b32ccb0-fa2a-4c6b-a319-04e4f1cc0e50.png)
+![image](https://user-images.githubusercontent.com/108422113/196794287-99c1803a-4271-43a5-9c94-fc097bde611d.png)
+
 
 SignUP Page:-
-![image](https://user-images.githubusercontent.com/93602234/196777265-f4c1f59b-8096-4e93-9eba-6946ad782fe2.png)
+![image](https://user-images.githubusercontent.com/108422113/196794668-1df6890d-51c1-4a26-8cba-ca443e32ca77.png)
+
 
 HomePage:-
-![image](https://user-images.githubusercontent.com/93602234/196778106-3c4a9460-70d8-445d-b93a-55bc50f6724d.png)
-![image](https://user-images.githubusercontent.com/93602234/196778165-67621476-6d64-4c74-a209-f877272d2b52.png)
-![image](https://user-images.githubusercontent.com/93602234/196778230-d44ff35c-82cb-41d1-95ab-783ce0ff2507.png)
+![image](https://user-images.githubusercontent.com/108422113/196795232-aa3729f4-9084-4b6a-94e1-53ba897a9467.png)
+![image](https://user-images.githubusercontent.com/108422113/196795044-9f5883b4-c658-4abc-a372-2f28c575b292.png)
+![image](https://user-images.githubusercontent.com/108422113/196795368-02ee5907-d8d4-41ec-a6b5-0dc5c8b245d2.png)
+
 
 contact Us Page:-
-![image](https://user-images.githubusercontent.com/93602234/196778329-8efcf036-c5e2-4a91-b2fc-eb1e76704328.png)
+![image](https://user-images.githubusercontent.com/108422113/196795481-01fe7197-df60-4865-b841-ed05a7031a0f.png)
+
 
 ## Database:-
 
 login credntials:-
-![image](https://user-images.githubusercontent.com/93602234/196778889-d2fc3b12-d4d1-4f37-95bc-aef47ed0a10f.png)
+![image](https://user-images.githubusercontent.com/108422113/196795725-8e1c4392-5ed8-4550-9c48-4fd87af7aa66.png)
 
 Contact Us Queries:-
-![image](https://user-images.githubusercontent.com/93602234/196781476-7a8621f7-fa5b-48b4-aa52-34ee58ea11fd.png)
+![image](https://user-images.githubusercontent.com/108422113/196795628-b826d241-df73-4012-9d35-8ebf1b681729.png)
