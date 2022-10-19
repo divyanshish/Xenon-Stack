@@ -13,32 +13,32 @@ Api Written in Nodejs and using mongodb as database
 Frontend is written in Html,css,js
 
 
-bash
+```bash
    gitclone https://github.com/mnku2407/Xenon-Stack.git
-
+```
 After clone
 
 ## Setup
 
 open terminal and navigate to assignment and run
 
-bash
+```bash
   npm i 
-
+```
 
 After that you have to run another command for starting localhost server
 
-bash
+```bash
   node index.js
-
+```
 
 
 
 ## Tech Stack
 
-*Client:* HTML, CSS, JAVASCRIPT
+**Client:** HTML, CSS, JAVASCRIPT
 
-*Server:* Node, Express, mongodb etc
+**Server:** Node, Express, mongodb etc
 
 
 ## screenshots are attached :- 
